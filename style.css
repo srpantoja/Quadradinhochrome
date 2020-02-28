@@ -1,0 +1,36 @@
+body  {  	
+	margin: 0; 	
+	padding: 0;	
+	background: #FFF;  
+}
+
+
+#main  {  	
+	margin: 1em auto;  	
+	width: 650px;  	
+	background: #fff;  
+}
+#menu  {  	
+	float: right;  	
+    width: 350px;
+    margin:0 -120px 0 0;
+    height: 600px;  		
+    background: #FFF;  	
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+}    
+#contents  {  	
+	float: left;  	
+    width: 600px;  
+    height: 600px;  		
+	background: #FFF;  	
+    margin:0 0 0 -200px;
+    border-color: black;
+    border-style: solid;
+
+}
+P { text-align: center }
+.input {
+    width: 320px;
+}
